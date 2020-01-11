@@ -9,4 +9,5 @@ ot.on("ready", function () {
  console.log(`${bot.user.username} is Ready!`);
 });
 
+
 bot.login(process.env.TOKEN);
